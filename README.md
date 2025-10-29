@@ -2,7 +2,7 @@
 <html lang="eu">
 <head>
     <meta charset="UTF-8">
-    <title>SASKIBALOIA</title>
+    <title>Sarrera</title>
     <body style="background-color: rgb(29, 187, 255);">
     <style>
         body { font-family: Arial, sans-serif; }
