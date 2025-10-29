@@ -1,3 +1,4 @@
+/2-Ariketa/
 <!DOCTYPE html>
 <html lang="eu">
 <head>
