@@ -11,7 +11,7 @@
     </style>
 </head>
 <body>
-<h1 style="text-align: center;">SASKIBALOIA
+<h1 style="text-align: center;">Saskibaloia
 
 </h1>    <nav>
         <a href="lehena.html">Posizioak</a>
